@@ -1,6 +1,6 @@
 Scratch Detection – AI R&D Prototype
-Author: Tanya Moras
-Date: 27/01/2026
+Author: Tanmay L Dhelaria 
+Date: 29/12/2025
 Version: v1.0
  1. Project Goal
 
